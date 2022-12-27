@@ -7,7 +7,7 @@ project created in 27 december 2022
 Explore US Bikeshare data
 
 ### Description
-the project is to creat an active dashboard
+the project is to creat an active dashboard that display the data based on the city and other details that user can choose
 
 ### Files used
 chicago.csv
