@@ -7,7 +7,7 @@ project created in 27 december 2022
 Explore US Bikeshare data
 
 ### Description
-Describe what your project is about and what it does
+the project is to creat an active dashboard
 
 ### Files used
 Include the files used
